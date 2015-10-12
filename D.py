@@ -6,6 +6,7 @@ for i in range(k):
     Q=''
     Q=Q+input()
     for t in range(n):
+        if
         B=B+[int(Q[t])]
 Q=''
 for i in range(n):
